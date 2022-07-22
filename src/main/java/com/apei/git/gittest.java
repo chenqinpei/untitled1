@@ -11,6 +11,7 @@ public class gittest {
         System.out.println("hitfix test");
         System.out.println("hitfix test");
         System.out.println("push test");
+        System.out.println("pull test");
 
 
     }
